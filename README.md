@@ -55,7 +55,7 @@ Si porque el histórico entre las ramas master y title es lineal
 
 `git reset --hard 51649a8e1e2d8642d4b2bfc32448be7df0f4da3b`
 
-## ¿Qué comando o comandos usaste en el punto 33?
+## ¿Qué comando o comandos usaste en el punto 33?
 
 `git reflog`
 
