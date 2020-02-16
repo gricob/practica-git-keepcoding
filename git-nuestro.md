@@ -1,5 +1,7 @@
 # Git nuestro
 
+## Spanish version
+
 *Git* nuestro que estas en los repos
 
 Comprimidos sean tus *commits*
